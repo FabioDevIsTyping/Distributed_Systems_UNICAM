@@ -1,0 +1,10 @@
+seed 42
+init 10
+add_peer peer1
+add_peer peer2
+add_peer peer3
+add_peer peer4
+add_peer peer5
+distribute_pieces
+choke_management
+print_state
