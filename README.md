@@ -1,4 +1,3 @@
-Sure, here is the full version of the README with the deployment section included and properly formatted:
 
 # Distributed Systems Project
 
@@ -32,7 +31,7 @@ DistributedSystems/
 └── .gitignore
 ```
 
-## Deployment
+## How to Run
 
 To get started with this project, follow these steps:
 
