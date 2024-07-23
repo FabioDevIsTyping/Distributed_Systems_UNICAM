@@ -1,8 +1,7 @@
 
 # Distributed Systems Project
 
-This project is a part of the Distributed Systems course at UNICAM. It implements a BitTorrent client in Python. The project is organized in the `Project` directory.
-
+This project is a part of the Distributed Systems course at UNICAM. It implements a simplified version of the BitTorrent client in Python for educational purposes and showcases different piece selection and peer selection algorithms. The project is organized in the `Project` directory. You can also check the actual Report documentation entitled : BitTorrent_Report_DeVitisFabioMichele_127836.pdf
 ## Project Structure
 
 ```
